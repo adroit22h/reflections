@@ -37,7 +37,9 @@ How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
     
-  Fill in your answer here 
+  Without using github I would probably email my changes to the person I am collaborating with if the file would fit or share it ia ftp.  If there
+  only two people it might not be difficult, however with more than two it might prove to be time consuming. Tracking what changes came first,
+  incorporating them, etc. would not be as easy.
 
 
 
@@ -45,4 +47,4 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     
-  Fill in your answer here
+  When I want to test out an idea or I want others opionion before I incorporated into the master.  So, I'll test test out in a new branch
