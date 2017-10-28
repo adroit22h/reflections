@@ -25,10 +25,11 @@ use one instead of another?
   a tree branch.
 
 What is the benefit of having a copy of the last known state of the remote
-stored locally?
+ stored locally?
 
     
-  Fill in your answer here
+  It's very beneficial if you have other collaborators submitting changes into GitHub and updating that.  then You will always have a copy
+  of the last known state before those changes were added on github then you can review them and see which ones you want to incorporate.
 
 
 
